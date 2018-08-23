@@ -1,22 +1,22 @@
 # 문제 3. Mn과 Mg의 정량
 ## 시약
 다음 시약이 담긴 시약병들.
-+	MnSO<sub>4</sub> (0.0xx M), 60cm<sup>3</sup>
++	MnSO<sub>4</sub> (0.0xx M), 60mL
 ###	Reagent bottles
-+	완충용액(buffer solution), 30cm<sup>3</sup>
-+	Na<sub>2</sub> EDTA (0.0xx M), 100cm<sup>3</sup>
++	완충용액(buffer solution), 30mL
++	Na<sub>2</sub> EDTA (0.0xx M), 100mL
 +	다음시약이 담긴 바이알들
 +	Hydroxylamine hydrochloride, 0.3g/vial (2 vials)
 +	NaF, 1.5g/vial (2 vials)
 +	“Eriochrome black T” 지시약 (분말)
 +	Mg(Ⅱ)와 Mn(Ⅱ)이 포함된 미지시료 (2)
 ## 기구 및 초자 <sub>(개수)</sub>
-+	뷰렛 (Burette), 25cm<sup>3</sup> (2)
++	뷰렛 (Burette), 25mL (2)
 +	약수저 (Spatula)
-+	눈금실린더 (Measuring cylinders), 10cm<sup>3</sup>
-+	삼각플라스크 (Conical flasks), 250cm<sup>3</sup> (2)
++	눈금실린더 (Measuring cylinders), 10mL
++	삼각플라스크 (Conical flasks), 250mL (2)
 +	깔때기(Funnels) (2)
-+	눈금실린더 (Measuring cylinders), 50cm<sup>3</sup>
++	눈금실린더 (Measuring cylinders), 50mL
 +	증류수병(Wash bottle)
 ## 실험 과정
  두 개의 25mL 뷰렛이 준비되어 있다. 하나의 뷰렛에는 EDTA 표준용액을 채우고, 다른 하나에는 Mn(Ⅱ) 표준용액을 채운다.
