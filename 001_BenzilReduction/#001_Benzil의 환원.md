@@ -8,7 +8,7 @@
 +	삼각플라스크 (Erlenmeyer flask), 100mL
 +	약수저 (Spatula)
 +	메스실린더 (Masuring cylinders), 10mL
-+	TLC 챔버 (TLC chambe제r)
++	TLC 챔버 (TLC chamber)
 +	TLC 판 (TLC plates)
 +	모세관 (Capillary) (2)
 +	비커 100mL (2)
